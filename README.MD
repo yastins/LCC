@@ -1,3 +1,7 @@
 Projeto LCC
  FEITO PARA MUDAR O MUNDO DO MERCADO
- uma pequena alteração
+ 
+
+
+ 'npm install'
+ 'npm run dev'
